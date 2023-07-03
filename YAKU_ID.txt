@@ -1,0 +1,71 @@
+ID	YAKU
+1	Tsumo
+2	Riichi
+3	Chankan
+4	Rinshan
+5	Haitei
+6	Houtei
+7	Haku
+8	Hatsu
+9	Chun
+10	Seat Wind
+11	Round Wind
+12	Tanyao
+13	IIpeiko
+14	Pinfu
+15	Chanta
+16	Ittsuu
+17	Sanshoku
+18	Daburii
+19	San-doukou
+20	Sankantsu
+21	Toitoi
+22	Sanankou
+23	Shousangen
+24	Honroutou
+25	Chiitoi
+26	Junchan
+27	Honitsu
+28	Ryanpeikou
+29	Chinitsu
+30	Ippatsu
+31	Dora
+32	Akadora
+33	Uradora
+34	Kita
+35	Tenhou
+36	Chiihou
+37	Daisangen
+38	Suuankou
+39	Tsuuiisou
+40	Ryuuiisou
+41	Chinroutou
+42	Kokushi Musou
+43	Shousuushii
+44	Suukantsu
+45	Nine Gates
+46	Paarenchan
+47	True Nine Gates
+48	Suuankou Tanki
+49	Kokushi 13-Sided
+50	Daisuushii
+51	Tsubame-gaeshi
+52	Kanburi
+53	Shiiaruraotai
+54	Uumensai
+55	Sanrenkou
+56	Iishoku Sanjun
+57	Iipinmoyue
+58	Chuupinraoyui
+59	Renhou
+60	Daisharin
+61	Daichikurin
+62	Daisuurin
+63	Ishinouenimosannen
+64	Daichisei
+-	Sangen Dragons
+-	Nagashi Mangan
+-	Four Wind Draw
+-	Four Kan Draw
+-	Kyuushuu Kyuuhai
+-	Four Riichi Draw
