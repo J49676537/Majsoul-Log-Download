@@ -40,6 +40,22 @@ tileList = {'1s': 1,'2s': 2,'3s': 3,'4s': 4,'5s': 5,'6s': 6,'7s': 7,'8s': 8,'9s'
             '1m':21,'2m':22,'3m':23,'4m':24,'5m':25,'6m':26,'7m':27,'8m':28,'9m':29,
             '1z':31,'2z':32,'3z':33,'4z':34,'5z':35,'6z':36,'7z':37} # ESWN-WGR
 ```
+```
+'paishan'             Wall (New Round)
+'chang','ju','ben'    Round, Hand, Repeat
+'liujumanguan'        Nagashi (Ryuukyoku)
+'hules'               Ron / Tsumo
+'operation'           Action
+'operations'          Action
+'moqie'               Tsumogiri
+
+'tingpai'             Tenpai
+'is_liqi'             Riichi Called
+'is_wliqi'            ???
+'zhenting'            ???
+'zimo'                Tsumo?
+'fans'                Yaku (refer YAKU_ID.txt)
+```
 
 == Spicy Logs
 Closed Kan :
