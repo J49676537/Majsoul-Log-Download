@@ -1,15 +1,59 @@
 # Majsoul-Log-Download
 
 == Summary
+
 Capture Mahjong Soul logs from a replay using browser Greasemonkey script.
 
 Downloads the raw JSON file when you press "s" while in a Mahjong Soul 4-player replay.
 
 == Instructions (Browser)
+
 === Install tampermonkey extension on your browser
 https://www.tampermonkey.net/[Download it here]
 
 === Install script
+downloadlogs.js
 
 === Download the log
 Login to Mahjong Soul, open the log you want to review, then press kbd:[S] after the log is loaded.
+
+== Analysis
+```
+chiChance        >          operation/s type 2
+ponChance        >          operation/s type 3
+kanChanceClosed  >          operation/s type 4
+kanChanceOpen    >          operation/s type 5
+kanChanceAdded   >          operation/s type 6
+riichiChance     >          operation/s type 7
+tsumoChance      >          operation/s type 8
+ronChance        >          operation/s type 9
+
+drawTile         >          operation   type 1
+chiTaken         >  type 0  operation   type 1
+ponTaken         >  type 1  operation   type 1
+kanTakenOpen     >  type 2
+kanTakenClosed   >  type 3
+```
+```
+tileList = {'1s': 1,'2s': 2,'3s': 3,'4s': 4,'5s': 5,'6s': 6,'7s': 7,'8s': 8,'9s': 9,
+            '1p':11,'2p':12,'3p':13,'4p':14,'5p':15,'6p':16,'7p':17,'8p':18,'9p':19,
+            '1m':21,'2m':22,'3m':23,'4m':24,'5m':25,'6m':26,'7m':27,'8m':28,'9m':29,
+            '1z':31,'2z':32,'3z':33,'4z':34,'5z':35,'6z':36,'7z':37} # ESWN-WGR
+```
+
+== Spicy Logs
+Closed Kan :
+
+Open Kan   :
+
+Added Kan  :
+
+Double Ron :
+
+Triple Ron :
+
+Nagashi    :
+
+Yakuman    :
+
+Kyuushu    :
